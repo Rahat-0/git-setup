@@ -1,0 +1,6 @@
+$ git inite (for inisialized git)
+$ git add . (for adding stage )
+$ git commit -m "message" (commited staged file)
+$ git status (check status)
+$ git log (show commited status with details)
+$ git log --oneline (show commit status shortly)
