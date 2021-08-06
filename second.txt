@@ -1,2 +1,6 @@
 new one for second file
+<<<<<<< HEAD
 change one line from here
+=======
+this is for pull checker
+>>>>>>> bc4a60691ea1b694f34e6717cecb3fbd13c0b0a8
